@@ -1,9 +1,7 @@
-This project was bootstrapped 
+Проект сделан на основе bootstrap 
 
-In the project directory, you can run:
-
+Для запуска - в консоле запустить react приложение и серверную часть:
 npm start
-and
 npm run server
 
 
