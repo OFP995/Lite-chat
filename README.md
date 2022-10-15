@@ -1,8 +1,8 @@
 Это React приложение с использованием библиотек Socket.IO, reducer, axios.  
 
 Команды для запуска:
-npm start
-npm run server
+-npm start
+-npm run server
 
 Для просмотра приложения можно открыть скрины в корне проекта.
 
